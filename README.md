@@ -7,4 +7,4 @@ Action_Bot is a Telegram Bot to notify all the events taking place in the reposi
 <br>
 <br>
 <br>
-***GitHub Action Hackathon 2021***
+***GitHub Actions Hackathon 2021***
