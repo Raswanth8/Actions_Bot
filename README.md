@@ -2,7 +2,7 @@
 
 Action_Bot is a Telegram Bot to notify all the events taking place in the repository directly to the bot chat.
 <br> <br>
-[![Actions Status](https://github.com/Raswanth8/Actions_Bot/workflows/Build%20and%20Test/badge.svg)](https://github.com/Raswanth8/Actions_Bot/actions)
+![Build Status](https://github.com/Raswanth8/Actions_Botworkflows/release/badge.svg)
 ## Working Image of the Bot
 ![alt text](./images/Telbot.jpg)
 <br>
